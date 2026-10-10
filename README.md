@@ -1,4 +1,4 @@
 # AI Website
 This is my first Git Repository.
 <br>
-how can make website
+how can make (Software)
